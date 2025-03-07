@@ -1,4 +1,5 @@
 🚀 AI-Powered Fake LinkedIn Profile Detector
+
 🔍 Overview
 With the rise of AI-generated faces and ChatGPT-written bios, fake LinkedIn profiles are becoming a serious issue. This project detects fake profiles by analyzing:
 ✅ Profile Pictures – Checks if an image is AI-generated or real using DeepFace
