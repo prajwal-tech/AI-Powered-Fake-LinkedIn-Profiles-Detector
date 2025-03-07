@@ -36,9 +36,4 @@ The program analyzes the image & bio and prints whether they seem fake
 🚀 Deepfake Detection – Use GAN-based deepfake models for advanced analysis
 🚀 Web App (Flask/Streamlit) – Make it an interactive tool for recruiters
 
-📢 Like This Project? Share It!
-If you find this useful, star this repo ⭐ on GitHub and share it on LinkedIn!
 
-#ArtificialIntelligence #MachineLearning #DeepLearning #FakeProfiles #LinkedIn #AI #Python
-
-This README is optimized for recruiters & LinkedIn engagement. Let me know if you need any tweaks!
